@@ -1,0 +1,63 @@
+.inputdiv {
+   height: 250px;
+   width: 250px;
+ 
+
+    display: flex;
+   justify-content: center;
+    
+    margin-top: 50px;
+    margin-left: 650px;
+
+
+}
+body {
+    background-color: black;
+}
+.input {
+    width: 350px;
+    height: 25px;
+    border-radius: 15px;
+    font-size: 20px;
+    
+}
+
+.btn {
+    padding: 10px;
+    width: 105px;
+    background-color: yellow;
+    border: none;
+   margin: 25px;
+   font-size:20px ;
+   border-radius: 15px;
+   
+
+}
+.btn:hover {
+    background-color: burlywood;
+
+}
+.btndiv {
+    display: flex;
+ 
+    justify-content: center;
+    width: 350px;
+    /* background-color: red; */
+}
+.text {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: wheat;
+}
+
+.todolist {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    color: royalblue;
+     
+}
